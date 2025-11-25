@@ -93,9 +93,13 @@ Exporting insights for Tableau dashboard
 ### ⭐ Key Findings
 
 ✔ Electronics & Furniture → Highest profit
+
 ✔ October → Highest total sales
+
 ✔ Discounts >30% reduce profit margins
+
 ✔ North & West regions need strategy improvement
+
 ✔ Some products have high stock but low profit → Need clearance
 
 ## 🚀 Business Recommendations
@@ -113,5 +117,7 @@ Implement dynamic pricing using inventory data
 ## ✍ Author
 
 Perapogu Vijay
+
 Aspiring Data Analyst
+
 📧 Open for collaborations & projects
